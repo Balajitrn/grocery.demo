@@ -51,5 +51,3 @@ The application exposes the following RESTful API endpoints: make sure the appli
 **`**Troubleshooting**`**
 
 If you face any issues while setting up or running the project, please make sure you have the correct JDK and Maven versions installed. Additionally, ensure that your IDE is configured correctly with the project SDK and Maven settings.
-
-If you still face issues, please email me at balamaddy03@gmail.com with details.
